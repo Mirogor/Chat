@@ -1,0 +1,62 @@
+D:\c#\TCP_Client_Form\TCP_Client_Form\bin\Debug\TCP_Client_Form.exe
+D:\c#\TCP_Client_Form\TCP_Client_Form\bin\Debug\TCP_Client_Form.pdb
+D:\c#\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Form1.resources
+D:\c#\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Properties.Resources.resources
+D:\c#\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\c#\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\c#\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.exe
+D:\c#\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.pdb
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.exe
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.pdb
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Client_Form_Miron\TCP_Client_Form\bin\Debug\TCP_Client_Form.exe
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Client_Form_Miron\TCP_Client_Form\bin\Debug\TCP_Client_Form.pdb
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Form1.resources
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Properties.Resources.resources
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.csproj.GenerateResource.Cache
+H:\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.exe
+H:\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.pdb
+H:\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Form1.resources
+H:\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Properties.Resources.resources
+H:\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TCP_Client_Form_Miron\TCP_Client_Form\bin\Debug\TCP_Client_Form.exe
+H:\TCP_Client_Form_Miron\TCP_Client_Form\bin\Debug\TCP_Client_Form.pdb
+C:\Users\Admin\Desktop\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.exe
+C:\Users\Admin\Desktop\TCP_Client_Form_Miron\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.pdb
+H:\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.exe
+H:\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.pdb
+H:\TCP_Client_Form\TCP_Client_Form\bin\Debug\TCP_Client_Form.exe
+H:\TCP_Client_Form\TCP_Client_Form\bin\Debug\TCP_Client_Form.pdb
+H:\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Form1.resources
+H:\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Properties.Resources.resources
+H:\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.exe
+C:\Users\Admin\Desktop\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.pdb
+C:\Users\Admin\Desktop\TCP_Client_Form\TCP_Client_Form\bin\Debug\TCP_Client_Form.exe
+C:\Users\Admin\Desktop\TCP_Client_Form\TCP_Client_Form\bin\Debug\TCP_Client_Form.pdb
+C:\Users\Admin\Desktop\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Form1.resources
+C:\Users\Admin\Desktop\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Properties.Resources.resources
+C:\Users\Admin\Desktop\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.csproj.GenerateResource.Cache
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.exe
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.pdb
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Client_Form\TCP_Client_Form\bin\Debug\TCP_Client_Form.exe
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Client_Form\TCP_Client_Form\bin\Debug\TCP_Client_Form.pdb
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Form1.resources
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Properties.Resources.resources
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.csprojResolveAssemblyReference.cache
+D:\All\Chat_real\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.exe
+D:\All\Chat_real\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.pdb
+D:\All\Chat_real\TCP_Client_Form\TCP_Client_Form\bin\Debug\TCP_Client_Form.exe
+D:\All\Chat_real\TCP_Client_Form\TCP_Client_Form\bin\Debug\TCP_Client_Form.pdb
+D:\All\Chat_real\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\All\Chat_real\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Form1.resources
+D:\All\Chat_real\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\TCP_Client_Form.Properties.Resources.resources
+D:\All\Chat_real\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\All\Chat_real\TCP_Client_Form\TCP_Client_Form\obj\x86\Debug\GenerateResource.write.1.tlog

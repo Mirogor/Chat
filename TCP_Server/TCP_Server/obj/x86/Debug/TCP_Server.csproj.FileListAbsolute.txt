@@ -1,0 +1,38 @@
+d:\c#\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+d:\c#\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+d:\c#\TCP_Server\TCP_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\c#\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.exe
+d:\c#\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.pdb
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Server_Miron\TCP_Server\obj\x86\Debug\TCP_Server.exe
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Server_Miron\TCP_Server\obj\x86\Debug\TCP_Server.pdb
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Server_Miron\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\Garyna\Documents\Visual Studio 2010\Projects\TCP_Server_Miron\TCP_Server\bin\Debug\TCP_Server.pdb
+H:\TCP_Server_Miron\TCP_Server\obj\x86\Debug\TCP_Server.exe
+H:\TCP_Server_Miron\TCP_Server\obj\x86\Debug\TCP_Server.pdb
+H:\TCP_Server_Miron\TCP_Server\bin\Debug\TCP_Server.exe
+H:\TCP_Server_Miron\TCP_Server\bin\Debug\TCP_Server.pdb
+H:\TCP_Server_Miron\TCP_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCP_Server_Miron\TCP_Server\obj\x86\Debug\TCP_Server.exe
+C:\Users\Admin\Desktop\TCP_Server_Miron\TCP_Server\obj\x86\Debug\TCP_Server.pdb
+H:\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.exe
+H:\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.pdb
+H:\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+H:\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+H:\TCP_Server\TCP_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.exe
+C:\Users\Admin\Desktop\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.pdb
+C:\Users\Admin\Desktop\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\Admin\Desktop\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.exe
+C:\Documents and Settings\Ученик-11\Рабочий стол\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.pdb
+D:\All\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.exe
+D:\All\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.pdb
+D:\All\Chat_real\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.exe
+D:\All\Chat_real\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.pdb
+D:\All\Chat_real\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+D:\All\Chat_real\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+D:\All\Chat_real\TCP_Server\TCP_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Разное\Учеба\proga\chat\Chat_real\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.exe
+E:\Разное\Учеба\proga\chat\Chat_real\TCP_Server\TCP_Server\obj\x86\Debug\TCP_Server.pdb
+E:\Разное\Учеба\proga\chat\Chat_real\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+E:\Разное\Учеба\proga\chat\Chat_real\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
